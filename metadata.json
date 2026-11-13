@@ -1,6 +1,0 @@
-{
-  "name": "HelixLab — Genomic Sequence Analysis & ML Classification Workbench",
-  "description": "Interactive DNA sequence feature extraction, machine learning classification, multivariable genomic visualization, and collaborative research reporting platform.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
